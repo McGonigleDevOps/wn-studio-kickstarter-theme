@@ -8,7 +8,7 @@ mix.postCss('assets/styles/base.css', 'assets/styles/theme.css', [
 ]);
 
 mix.browserSync({
-  proxy: 'https://dev.mcgonigle.studio/projects/mcgonigle.dev',
+  proxy: 'https://domain.url',
   open: false,
   notify: false,
   files: [
