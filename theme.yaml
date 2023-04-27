@@ -1,0 +1,9 @@
+name: "Studio Kickstarter Theme"
+description: "The base starter theme for McGonigle Studio projects. This theme is intended to be used as a starting point for new projects. It includes TailwindCSS, SnowboardJS and AlpineJS."
+author: "McGonigle Digital Studios"
+homepage: "https://mcgonigle.studio"
+code: "wn-studio-kickstarter-theme"
+form:
+    fields:
+        googleanalytics_id:
+            label: 'Google Analytics ID'
